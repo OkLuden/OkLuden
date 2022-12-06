@@ -1,5 +1,5 @@
 ![My Image](coding.jpg)
-<h1>Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">I am a passionate programmer, UI/UX designer and illustrator.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
