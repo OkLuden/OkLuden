@@ -1,7 +1,6 @@
 ![My Image](coding.jpg)
-<h1 align="center">Hi 👋, I'm Klaudia</h1>
-<h3 align="center">Passionate programmer, UI/UX designer and illustrator.</h3>
-<p>I am a young, aspiring software engineer and UI/UX designer that loves to explore and learn new things. </p>
+<h1 align="left">Hi 👋, I'm Klaudia</h1>
+<h3 align="left">Passionate, aspiring software engineer, UI/UX designer and illustrator.</h3>
 
 <h2 align="left">👾Languages and Tools👾</h2>
 <h4 align="left">Programming</h4>
@@ -49,6 +48,6 @@
   
  <h2 align="left">💻Find Me on The Web💻</h2>
  <p align="left">
-  <a href="https://twitter.com/luden_css" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-   generator/master/src/images/icons/Social/twitter.svg" alt="luden_css" height="30" width="40" /></a>
+  <a href="https://twitter.com/luden_css" target="blank"><img align="center" src="twitter_logo.png" alt="luden_css" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/klaudia-kulas-41a878206/" target="blank"><img align="center"   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/klaudia-kulas-41a878206/" height="30" width="40" /></a>
 </p>
